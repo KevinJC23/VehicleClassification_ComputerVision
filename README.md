@@ -26,5 +26,5 @@
 2. Run Notebook whether in Google Colab or Jupyter Notebook
 
 ## 💻 Demo
-1. Visit my HuggingFace Spaces using this link:
+1. Visit my HuggingFace Spaces using direct link below:
 <pre>https://huggingface.co/spaces/KevinJuanCarlos23/VehicleClassification</pre>
